@@ -7,6 +7,7 @@ RF24 radio(7,8);                              //Ініціалізація пі�
 
 const uint8_t num_channels = 128;
 uint8_t values[num_channels];
+
 void setup(void)
 {
   Serial.begin(115200);
