@@ -15,7 +15,7 @@ void setup_input_dev(){
 }
 
 void sent_dev(){
-  sent_data.ch1 = 0;                                                  //Скиньте значення кожного каналу
+  sent_data.ch1 = 0;                                                    //Скиньте значення кожного каналу
 }
 
 #endif
